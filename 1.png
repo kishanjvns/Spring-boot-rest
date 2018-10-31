@@ -1,0 +1,7 @@
+size,value,paymentType,amount,externalReferenceId,barCode,destinationTerminal,shortName,consigneeName,consigneePhoneNumber,consigneeEmail
+MEDIUM,70,PREPAID,70,ORIuhnu68664s12274,SB102726729270,TestTerminal107,WHL22,chow,8860466404,michel@gmail.com
+MEDIUM,71,PREPAID,71,ORIuhnu68664s12275,SB102726729271,TestTerminal107,WHL22,chow,8860466404,michel@gmail.com
+MEDIUM,72,PREPAID,72,ORIuhnu6866s412276,SB102726729272,TestTerminal107,WHL22,chow,8860466404,michel@gmail.com
+MEDIUM,73,PREPAID,73,ORIuhnu68646s12267,SB102726729264,TestTerminal107,WHL22,chow,8860466404,michel@gmail.com
+MEDIUM,74,PREPAID,74,ORIuhnu68664s12268,SB102726729265,TestTerminal107,WHL22,chow,8860466404,michel@gmail.com
+MEDIUM,75,PREPAID,75,ORIuhnu68664s12269,SB102726729266,TestTerminal107,WHL22,chow,8860466404,michel@gmail.com
