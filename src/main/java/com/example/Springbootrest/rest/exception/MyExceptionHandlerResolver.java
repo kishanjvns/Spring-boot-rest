@@ -1,4 +1,4 @@
-package com.example.Springbootrest;
+package com.example.Springbootrest.rest.exception;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
