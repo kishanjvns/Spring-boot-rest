@@ -13,6 +13,6 @@ public class StudentEndpoint {
 	Logger log = LoggerFactory.getLogger(StudentEndpoint.class);
 	@GetMapping
 	public ResponseEntity<String> getStudents(){
-		return ResponseEntity.ok("no student created yet");
+		throw new RuntimeException();
 	}
 }
